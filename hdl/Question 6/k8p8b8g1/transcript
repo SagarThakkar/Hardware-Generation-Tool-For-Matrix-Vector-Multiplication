@@ -1,0 +1,4089 @@
+# vsim tb6 -c -do "run -all" 
+# Start time: 15:57:47 on Dec 03,2015
+# ** Note: (vsim-3812) Design is being optimized...
+# //  ModelSim SE 10.4c Jul 19 2015 Linux 3.10.0-229.14.1.el7.x86_64
+# //
+# //  Copyright 1991-2015 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  THIS WORK CONTAINS TRADE SECRET AND PROPRIETARY INFORMATION
+# //  WHICH IS THE PROPERTY OF MENTOR GRAPHICS CORPORATION OR ITS
+# //  LICENSORS AND IS SUBJECT TO LICENSE TERMS.
+# //  THIS DOCUMENT CONTAINS TRADE SECRETS AND COMMERCIAL OR FINANCIAL
+# //  INFORMATION THAT ARE PRIVILEGED, CONFIDENTIAL, AND EXEMPT FROM
+# //  DISCLOSURE UNDER THE FREEDOM OF INFORMATION ACT, 5 U.S.C. SECTION 552.
+# //  FURTHERMORE, THIS INFORMATION IS PROHIBITED FROM DISCLOSURE UNDER
+# //  THE TRADE SECRETS ACT, 18 U.S.C. SECTION 1905.
+# //
+# Loading sv_std.std
+# Loading work.tb6(fast)
+# run -all
+# Data in : xx
+# Data in : c5
+# Data in : 9d
+# Data in : 78
+# Data in : 74
+# Data in : 87
+# Data in : 79
+# Data in : b2
+# Data in : 2d
+# Data in : 36
+# Data in : 82
+# Data in : f4
+# Data in : e2
+# Data in : fd
+# Data in : e1
+# Data in : 83
+# Data in : e3
+# Data in : 4b
+# Data in : c7
+# Data in : e5
+# Data in : ab
+# Data in : 94
+# Data in : 28
+# Data in : bb
+# Data in : 0b
+# Data in : d3
+# Data in : 5b
+# Data in : 14
+# Data in : b0
+# Data in : 5b
+# Data in : 76
+# Data in : 7f
+# Data in : 21
+# Data in : 94
+# Data in : f7
+# Data in : 96
+# Data in : 1c
+# Data in : f0
+# Data in : c8
+# Data in : 28
+# Data in : 4b
+# Data in : bd
+# Data in : 0b
+# Data in : c9
+# Data in : 9f
+# Data in : 0e
+# Data in : 2d
+# Data in : 6a
+# Data in : 56
+# Data in : 13
+# Data in : 16
+# Data in : ea
+# Data in : ba
+# Data in : d1
+# Data in : f5
+# Data in : 8f
+# Data in : ac
+# Data in : 0b
+# Data in : bf
+# Data in : 09
+# Data in : 01
+# Data in : 3f
+# Data in : a9
+# Data in : 95
+# Data in : 37
+# Data in : bf
+# Data in : 31
+# Data in : a7
+# Data in : 89
+# Data in : f9
+# Data in : cf
+# Data in : d4
+# y[0] =  14140
+# y[1] =  21217
+# y[2] =  29541
+# y[3] = -19620
+# y[4] =  -9761
+# y[5] =  18490
+# y[6] =  20701
+# y[7] =   -910
+# Data in : 37
+# Data in : 5b
+# Data in : 1e
+# Data in : d6
+# Data in : e8
+# Data in : 4b
+# Data in : c0
+# Data in : 3f
+# Data in : dd
+# Data in : d7
+# Data in : 2b
+# Data in : 99
+# Data in : 29
+# Data in : a0
+# Data in : a8
+# Data in : 56
+# Data in : 2b
+# Data in : 68
+# Data in : de
+# Data in : 2d
+# Data in : a7
+# Data in : 88
+# Data in : 42
+# Data in : 5e
+# Data in : 49
+# Data in : 74
+# Data in : 06
+# Data in : d2
+# Data in : ed
+# Data in : 56
+# Data in : 27
+# Data in : 26
+# Data in : b1
+# Data in : 46
+# Data in : 7c
+# Data in : 1a
+# Data in : 91
+# Data in : 3e
+# Data in : 5a
+# Data in : 70
+# Data in : 95
+# Data in : 05
+# Data in : 89
+# Data in : be
+# Data in : 25
+# Data in : 32
+# Data in : 94
+# Data in : 51
+# Data in : 9a
+# Data in : 73
+# Data in : fd
+# Data in : c1
+# Data in : fc
+# Data in : bf
+# Data in : 9f
+# Data in : c5
+# Data in : 34
+# Data in : a5
+# Data in : 18
+# Data in : a2
+# Data in : 7b
+# Data in : 3f
+# Data in : c8
+# Data in : ac
+# Data in : 05
+# Data in : 45
+# Data in : c7
+# Data in : 97
+# Data in : 83
+# Data in : 22
+# Data in : 87
+# Data in : 19
+# y[0] =  24123
+# y[1] =   9769
+# y[2] =   6013
+# y[3] =  14387
+# y[4] =   2530
+# y[5] =  25691
+# y[6] =  22763
+# y[7] =  -6074
+# Data in : a6
+# Data in : 11
+# Data in : 58
+# Data in : cb
+# Data in : c2
+# Data in : ec
+# Data in : 9c
+# Data in : dc
+# Data in : e0
+# Data in : 1a
+# Data in : 9e
+# Data in : 5d
+# Data in : da
+# Data in : 3e
+# Data in : 23
+# Data in : 8e
+# Data in : 63
+# Data in : 3b
+# Data in : 31
+# Data in : 5f
+# Data in : f9
+# Data in : 79
+# Data in : 0c
+# Data in : 00
+# Data in : bf
+# Data in : d3
+# Data in : 17
+# Data in : c2
+# Data in : 75
+# Data in : 9e
+# Data in : 5c
+# Data in : 1c
+# Data in : 2f
+# Data in : 34
+# Data in : 68
+# Data in : f1
+# Data in : a0
+# Data in : 84
+# Data in : 4e
+# Data in : 81
+# Data in : 9f
+# Data in : ec
+# Data in : 5e
+# Data in : f9
+# Data in : aa
+# Data in : 01
+# Data in : 88
+# Data in : 8d
+# Data in : 3c
+# Data in : 3a
+# Data in : ec
+# Data in : b6
+# Data in : b3
+# Data in : f9
+# Data in : b6
+# Data in : f2
+# Data in : cd
+# Data in : 4d
+# Data in : 36
+# Data in : 44
+# Data in : 6b
+# Data in : 12
+# Data in : df
+# Data in : 9a
+# Data in : 46
+# Data in : c7
+# Data in : 0c
+# Data in : e6
+# Data in : 4d
+# Data in : 5a
+# Data in : e8
+# Data in : 6c
+# y[0] = -12897
+# y[1] = -17814
+# y[2] =  11748
+# y[3] =    908
+# y[4] = -32176
+# y[5] = -20412
+# y[6] =  -3717
+# y[7] =  -9444
+# Data in : c6
+# Data in : 47
+# Data in : 66
+# Data in : 71
+# Data in : 49
+# Data in : 6e
+# Data in : 7e
+# Data in : 05
+# Data in : 28
+# Data in : 6c
+# Data in : 3b
+# Data in : dc
+# Data in : 66
+# Data in : 71
+# Data in : 4f
+# Data in : b3
+# Data in : be
+# Data in : 05
+# Data in : 77
+# Data in : 2a
+# Data in : 17
+# Data in : 58
+# Data in : c4
+# Data in : 5d
+# Data in : 9f
+# Data in : 50
+# Data in : c4
+# Data in : ec
+# Data in : aa
+# Data in : 2d
+# Data in : d8
+# Data in : f0
+# Data in : 74
+# Data in : be
+# Data in : 62
+# Data in : 3d
+# Data in : 2e
+# Data in : 61
+# Data in : c2
+# Data in : d5
+# Data in : cd
+# Data in : fd
+# Data in : 32
+# Data in : b3
+# Data in : 70
+# Data in : 82
+# Data in : 67
+# Data in : 2f
+# Data in : 07
+# Data in : df
+# Data in : d9
+# Data in : 1f
+# Data in : b7
+# Data in : 1e
+# Data in : fb
+# Data in : 57
+# Data in : 6f
+# Data in : 40
+# Data in : c4
+# Data in : 99
+# Data in : 6d
+# Data in : 9d
+# Data in : 8b
+# Data in : 62
+# Data in : 5d
+# Data in : 6d
+# Data in : 1f
+# Data in : 0b
+# Data in : ce
+# Data in : e1
+# Data in : 60
+# Data in : 1c
+# y[0] =  11926
+# y[1] =  13750
+# y[2] =  -8476
+# y[3] =  -3764
+# y[4] =  -5160
+# y[5] =   5143
+# y[6] =    862
+# y[7] =   3437
+# Data in : 60
+# Data in : 93
+# Data in : cf
+# Data in : 50
+# Data in : 16
+# Data in : b7
+# Data in : fe
+# Data in : 1d
+# Data in : 97
+# Data in : d8
+# Data in : bb
+# Data in : ce
+# Data in : f7
+# Data in : b8
+# Data in : 26
+# Data in : e6
+# Data in : f8
+# Data in : ea
+# Data in : 80
+# Data in : e6
+# Data in : 09
+# Data in : 8b
+# Data in : 49
+# Data in : 66
+# Data in : 79
+# Data in : e7
+# Data in : f0
+# Data in : c7
+# Data in : ca
+# Data in : 51
+# Data in : e4
+# Data in : aa
+# Data in : e4
+# Data in : 34
+# Data in : fa
+# Data in : 7a
+# Data in : eb
+# Data in : f9
+# Data in : 18
+# Data in : 03
+# Data in : d3
+# Data in : 53
+# Data in : d1
+# Data in : 4b
+# Data in : 0c
+# Data in : f8
+# Data in : 32
+# Data in : 85
+# Data in : 63
+# Data in : 32
+# Data in : eb
+# Data in : 6c
+# Data in : 3e
+# Data in : b4
+# Data in : 52
+# Data in : b7
+# Data in : 9c
+# Data in : 43
+# Data in : fe
+# Data in : 67
+# Data in : 15
+# Data in : e3
+# Data in : 91
+# Data in : 79
+# Data in : 98
+# Data in : 8c
+# Data in : 74
+# Data in : 84
+# Data in : 87
+# Data in : 8c
+# Data in : 88
+# Data in : da
+# y[0] =  -8000
+# y[1] =  19625
+# y[2] =  -8393
+# y[3] =   -706
+# y[4] = -18585
+# y[5] = -21550
+# y[6] =  27860
+# y[7] =   -831
+# Data in : df
+# Data in : 5a
+# Data in : a5
+# Data in : 6c
+# Data in : d2
+# Data in : d7
+# Data in : 71
+# Data in : 37
+# Data in : 89
+# Data in : 5d
+# Data in : a3
+# Data in : c7
+# Data in : 12
+# Data in : f6
+# Data in : fe
+# Data in : ae
+# Data in : b9
+# Data in : fe
+# Data in : 96
+# Data in : ce
+# Data in : 62
+# Data in : 28
+# Data in : c8
+# Data in : fa
+# Data in : 35
+# Data in : 3d
+# Data in : 00
+# Data in : 3c
+# Data in : 49
+# Data in : 88
+# Data in : 17
+# Data in : a8
+# Data in : 62
+# Data in : 3c
+# Data in : 94
+# Data in : b5
+# Data in : 14
+# Data in : 06
+# Data in : ec
+# Data in : 1d
+# Data in : e2
+# Data in : 10
+# Data in : e5
+# Data in : f4
+# Data in : 07
+# Data in : e4
+# Data in : 24
+# Data in : 41
+# Data in : e3
+# Data in : 3a
+# Data in : 8f
+# Data in : 47
+# Data in : e1
+# Data in : 58
+# Data in : c1
+# Data in : 17
+# Data in : 15
+# Data in : c1
+# Data in : 53
+# Data in : 5e
+# Data in : c9
+# Data in : e9
+# Data in : 87
+# Data in : 2d
+# Data in : a5
+# Data in : 1c
+# Data in : 62
+# Data in : b9
+# Data in : 23
+# Data in : 4f
+# Data in : d7
+# Data in : 85
+# y[0] = -27310
+# y[1] =  18374
+# y[2] =   9191
+# y[3] =  -4419
+# y[4] = -14070
+# y[5] = -10054
+# y[6] =  -6231
+# y[7] =  -6531
+# Data in : 5f
+# Data in : 3d
+# Data in : fa
+# Data in : e6
+# Data in : 22
+# Data in : 1f
+# Data in : 28
+# Data in : 86
+# Data in : d8
+# Data in : 37
+# Data in : 4d
+# Data in : ba
+# Data in : 90
+# Data in : 0f
+# Data in : 52
+# Data in : a5
+# Data in : d1
+# Data in : 25
+# Data in : 84
+# Data in : 9b
+# Data in : 8f
+# Data in : 0c
+# Data in : 48
+# Data in : 35
+# Data in : a7
+# Data in : aa
+# Data in : 6f
+# Data in : ca
+# Data in : 79
+# Data in : c6
+# Data in : d0
+# Data in : 59
+# Data in : 04
+# Data in : cb
+# Data in : 40
+# Data in : a5
+# Data in : 6a
+# Data in : e7
+# Data in : 2c
+# Data in : 43
+# Data in : 1f
+# Data in : 79
+# Data in : 7d
+# Data in : 2f
+# Data in : 09
+# Data in : 4f
+# Data in : 55
+# Data in : da
+# Data in : 75
+# Data in : d9
+# Data in : f5
+# Data in : 84
+# Data in : 65
+# Data in : be
+# Data in : 39
+# Data in : 0d
+# Data in : 69
+# Data in : a8
+# Data in : 58
+# Data in : 63
+# Data in : ee
+# Data in : 29
+# Data in : bc
+# Data in : f2
+# Data in : 74
+# Data in : 7c
+# Data in : 19
+# Data in : de
+# Data in : 64
+# Data in : 45
+# Data in : a1
+# Data in : 03
+# y[0] =  20691
+# y[1] = -11743
+# y[2] = -17683
+# y[3] =  -3452
+# y[4] =   3482
+# y[5] =  18289
+# y[6] =  12847
+# y[7] =   7549
+# Data in : 3f
+# Data in : 1f
+# Data in : b2
+# Data in : c7
+# Data in : ee
+# Data in : 08
+# Data in : 22
+# Data in : e3
+# Data in : 61
+# Data in : 18
+# Data in : 68
+# Data in : c6
+# Data in : d6
+# Data in : a1
+# Data in : 53
+# Data in : c0
+# Data in : ca
+# Data in : 2b
+# Data in : 24
+# Data in : b9
+# Data in : 54
+# Data in : 60
+# Data in : 2d
+# Data in : c8
+# Data in : dc
+# Data in : 46
+# Data in : 27
+# Data in : c0
+# Data in : 0b
+# Data in : c8
+# Data in : c3
+# Data in : c9
+# Data in : 68
+# Data in : f5
+# Data in : 91
+# Data in : 57
+# Data in : fd
+# Data in : b3
+# Data in : 3b
+# Data in : de
+# Data in : 4c
+# Data in : a3
+# Data in : 25
+# Data in : a2
+# Data in : c4
+# Data in : 79
+# Data in : e2
+# Data in : 0f
+# Data in : a4
+# Data in : 86
+# Data in : c9
+# Data in : 79
+# Data in : e6
+# Data in : 76
+# Data in : c1
+# Data in : c3
+# Data in : bc
+# Data in : e9
+# Data in : 84
+# Data in : 47
+# Data in : 32
+# Data in : c8
+# Data in : 12
+# Data in : 9a
+# Data in : be
+# Data in : 23
+# Data in : f1
+# Data in : 3d
+# Data in : 57
+# Data in : 2d
+# Data in : 1c
+# Data in : 23
+# y[0] =  -6649
+# y[1] = -18505
+# y[2] =  11126
+# y[3] =  -4859
+# y[4] =  -3541
+# y[5] = -14650
+# y[6] =   9157
+# y[7] =   8638
+# Data in : 50
+# Data in : 42
+# Data in : c5
+# Data in : 16
+# Data in : 3b
+# Data in : 29
+# Data in : 25
+# Data in : 5f
+# Data in : af
+# Data in : 6e
+# Data in : d8
+# Data in : 97
+# Data in : e4
+# Data in : 1b
+# Data in : 5b
+# Data in : a1
+# Data in : 84
+# Data in : 60
+# Data in : 69
+# Data in : b6
+# Data in : 29
+# Data in : 7b
+# Data in : 52
+# Data in : 67
+# Data in : 1e
+# Data in : c3
+# Data in : a4
+# Data in : 75
+# Data in : f1
+# Data in : 41
+# Data in : 98
+# Data in : 42
+# Data in : 03
+# Data in : de
+# Data in : d7
+# Data in : bd
+# Data in : 08
+# Data in : fd
+# Data in : 1d
+# Data in : b7
+# Data in : 6c
+# Data in : 76
+# Data in : ce
+# Data in : d1
+# Data in : 11
+# Data in : aa
+# Data in : f2
+# Data in : 95
+# Data in : 0b
+# Data in : 5c
+# Data in : cb
+# Data in : b3
+# Data in : 57
+# Data in : 1e
+# Data in : 1b
+# Data in : 76
+# Data in : e2
+# Data in : 40
+# Data in : 6b
+# Data in : 54
+# Data in : 01
+# Data in : 05
+# Data in : 96
+# Data in : 04
+# Data in : 63
+# Data in : 6f
+# Data in : 41
+# Data in : 6b
+# Data in : ec
+# Data in : 5e
+# Data in : a2
+# Data in : d8
+# y[0] =   9161
+# y[1] = -11300
+# y[2] =  -3799
+# y[3] =  16284
+# y[4] = -13559
+# y[5] =  12683
+# y[6] =  -6561
+# y[7] =  30331
+# Data in : 54
+# Data in : f1
+# Data in : aa
+# Data in : 65
+# Data in : 9c
+# Data in : 9e
+# Data in : 7a
+# Data in : a7
+# Data in : 7a
+# Data in : 47
+# Data in : da
+# Data in : d2
+# Data in : 65
+# Data in : f5
+# Data in : 49
+# Data in : c7
+# Data in : b5
+# Data in : b4
+# Data in : 9b
+# Data in : b6
+# Data in : 39
+# Data in : b2
+# Data in : 3a
+# Data in : 1c
+# Data in : a1
+# Data in : 7b
+# Data in : 07
+# Data in : 8e
+# Data in : 5a
+# Data in : aa
+# Data in : e6
+# Data in : ae
+# Data in : 9c
+# Data in : 12
+# Data in : 94
+# Data in : b8
+# Data in : 30
+# Data in : 0f
+# Data in : df
+# Data in : aa
+# Data in : 56
+# Data in : ba
+# Data in : 7d
+# Data in : 3c
+# Data in : 30
+# Data in : 46
+# Data in : 83
+# Data in : e6
+# Data in : 7b
+# Data in : 20
+# Data in : 1d
+# Data in : 34
+# Data in : d2
+# Data in : 58
+# Data in : 51
+# Data in : 74
+# Data in : 53
+# Data in : 58
+# Data in : 82
+# Data in : ad
+# Data in : 82
+# Data in : 69
+# Data in : dc
+# Data in : 9e
+# Data in : 7b
+# Data in : 71
+# Data in : 57
+# Data in : ab
+# Data in : 00
+# Data in : 37
+# Data in : d6
+# Data in : 57
+# y[0] = -25687
+# y[1] =  15003
+# y[2] = -24600
+# y[3] =   1741
+# y[4] = -18813
+# y[5] =  15281
+# y[6] =  28378
+# y[7] =  15007
+# Data in : f1
+# Data in : 54
+# Data in : 13
+# Data in : 23
+# Data in : 1b
+# Data in : 96
+# Data in : 89
+# Data in : 16
+# Data in : 36
+# Data in : a6
+# Data in : 4a
+# Data in : 09
+# Data in : fe
+# Data in : 9b
+# Data in : fc
+# Data in : 53
+# Data in : 74
+# Data in : fe
+# Data in : 80
+# Data in : f6
+# Data in : 69
+# Data in : 5d
+# Data in : 96
+# Data in : 64
+# Data in : 4e
+# Data in : 6d
+# Data in : 90
+# Data in : 4f
+# Data in : a5
+# Data in : 67
+# Data in : 26
+# Data in : 17
+# Data in : 3b
+# Data in : 39
+# Data in : b9
+# Data in : d5
+# Data in : 4f
+# Data in : 43
+# Data in : eb
+# Data in : 06
+# Data in : ea
+# Data in : 37
+# Data in : 8e
+# Data in : 69
+# Data in : 52
+# Data in : 8c
+# Data in : 3c
+# Data in : c6
+# Data in : 8b
+# Data in : bd
+# Data in : 3e
+# Data in : 74
+# Data in : 9a
+# Data in : d4
+# Data in : 59
+# Data in : 69
+# Data in : c1
+# Data in : 69
+# Data in : 38
+# Data in : 67
+# Data in : d0
+# Data in : dd
+# Data in : fe
+# Data in : 8b
+# Data in : 96
+# Data in : b8
+# Data in : 62
+# Data in : e5
+# Data in : fc
+# Data in : cd
+# Data in : eb
+# Data in : 67
+# y[0] =   6522
+# y[1] =  21557
+# y[2] = -17063
+# y[3] = -32543
+# y[4] = -18829
+# y[5] = -17281
+# y[6] =  31768
+# y[7] =  -8207
+# Data in : 05
+# Data in : 7b
+# Data in : d0
+# Data in : d7
+# Data in : 87
+# Data in : 8d
+# Data in : 9e
+# Data in : 92
+# Data in : ca
+# Data in : 5c
+# Data in : 87
+# Data in : e4
+# Data in : b0
+# Data in : e0
+# Data in : 4e
+# Data in : 73
+# Data in : 4a
+# Data in : 06
+# Data in : da
+# Data in : 9a
+# Data in : e3
+# Data in : d9
+# Data in : a5
+# Data in : 7a
+# Data in : 13
+# Data in : 08
+# Data in : 61
+# Data in : 10
+# Data in : d6
+# Data in : cc
+# Data in : f6
+# Data in : 5b
+# Data in : c7
+# Data in : 47
+# Data in : 33
+# Data in : ce
+# Data in : d4
+# Data in : 52
+# Data in : 62
+# Data in : 9f
+# Data in : 2e
+# Data in : e9
+# Data in : 85
+# Data in : df
+# Data in : 4a
+# Data in : 53
+# Data in : 14
+# Data in : 5a
+# Data in : ad
+# Data in : ae
+# Data in : 3e
+# Data in : 08
+# Data in : 54
+# Data in : b9
+# Data in : 1b
+# Data in : dc
+# Data in : 9a
+# Data in : aa
+# Data in : 33
+# Data in : e6
+# Data in : 21
+# Data in : 0e
+# Data in : af
+# Data in : 68
+# Data in : c1
+# Data in : 7e
+# Data in : 3e
+# Data in : 93
+# Data in : 60
+# Data in : 5d
+# Data in : c1
+# y[0] = -15854
+# y[1] = -22737
+# y[2] = -20526
+# y[3] =   7609
+# y[4] =  20818
+# y[5] =  -4950
+# y[6] =   6989
+# y[7] =   7415
+# Data in : c9
+# Data in : 62
+# Data in : a1
+# Data in : 14
+# Data in : b6
+# Data in : 74
+# Data in : 28
+# Data in : 90
+# Data in : 23
+# Data in : 56
+# Data in : ce
+# Data in : aa
+# Data in : 2b
+# Data in : 08
+# Data in : 45
+# Data in : 87
+# Data in : 22
+# Data in : ef
+# Data in : 3a
+# Data in : 0a
+# Data in : 90
+# Data in : 48
+# Data in : 39
+# Data in : f8
+# Data in : 89
+# Data in : b7
+# Data in : b6
+# Data in : 1d
+# Data in : 98
+# Data in : 94
+# Data in : df
+# Data in : 62
+# Data in : f6
+# Data in : 01
+# Data in : 77
+# Data in : 2d
+# Data in : 76
+# Data in : 1f
+# Data in : 3d
+# Data in : 19
+# Data in : f5
+# Data in : 8c
+# Data in : c3
+# Data in : 21
+# Data in : 94
+# Data in : 09
+# Data in : 28
+# Data in : 37
+# Data in : 78
+# Data in : 62
+# Data in : 41
+# Data in : 09
+# Data in : 2a
+# Data in : 7a
+# Data in : 81
+# Data in : b4
+# Data in : b1
+# Data in : 39
+# Data in : 51
+# Data in : 4a
+# Data in : cd
+# Data in : 31
+# Data in : 2d
+# Data in : 44
+# Data in : b2
+# Data in : 24
+# Data in : f1
+# Data in : 29
+# Data in : 43
+# Data in : 2f
+# Data in : 42
+# Data in : 39
+# y[0] =   6813
+# y[1] =  -1496
+# y[2] =  -4538
+# y[3] =    317
+# y[4] =  15690
+# y[5] =  -2088
+# y[6] = -10604
+# y[7] =  15765
+# Data in : bb
+# Data in : 85
+# Data in : d9
+# Data in : d0
+# Data in : 0e
+# Data in : 02
+# Data in : 08
+# Data in : 86
+# Data in : 64
+# Data in : c8
+# Data in : 0f
+# Data in : 43
+# Data in : 90
+# Data in : c3
+# Data in : 74
+# Data in : 49
+# Data in : 94
+# Data in : 3f
+# Data in : 96
+# Data in : c6
+# Data in : 6c
+# Data in : 5b
+# Data in : 79
+# Data in : 90
+# Data in : 4d
+# Data in : 22
+# Data in : 53
+# Data in : fb
+# Data in : e3
+# Data in : 8d
+# Data in : 38
+# Data in : 69
+# Data in : e6
+# Data in : 09
+# Data in : 77
+# Data in : e9
+# Data in : 90
+# Data in : 7d
+# Data in : cd
+# Data in : 59
+# Data in : 0c
+# Data in : dc
+# Data in : 1c
+# Data in : 20
+# Data in : 90
+# Data in : 66
+# Data in : b5
+# Data in : 4f
+# Data in : 7c
+# Data in : fb
+# Data in : bb
+# Data in : d7
+# Data in : f4
+# Data in : cb
+# Data in : a4
+# Data in : 17
+# Data in : 20
+# Data in : a1
+# Data in : 7a
+# Data in : 2d
+# Data in : d9
+# Data in : e3
+# Data in : 14
+# Data in : 62
+# Data in : da
+# Data in : 7d
+# Data in : f2
+# Data in : d7
+# Data in : cb
+# y[0] = -12188
+# y[1] =  -1444
+# y[2] =  25916
+# y[3] =  18775
+# y[4] =  15077
+# y[5] =   6650
+# y[6] =   6997
+# y[7] = -12626
+# Data in : e3
+# Data in : a8
+# Data in : e7
+# Data in : 00
+# Data in : 49
+# Data in : f7
+# Data in : e5
+# Data in : fe
+# Data in : 48
+# Data in : 63
+# Data in : 7a
+# Data in : 83
+# Data in : 3b
+# Data in : 6f
+# Data in : 50
+# Data in : e0
+# Data in : 06
+# Data in : ef
+# Data in : 82
+# Data in : 80
+# Data in : 9c
+# Data in : db
+# Data in : e3
+# Data in : b0
+# Data in : 3e
+# Data in : be
+# Data in : ae
+# Data in : b0
+# Data in : 16
+# Data in : 7a
+# Data in : fb
+# Data in : f9
+# Data in : a2
+# Data in : e3
+# Data in : 79
+# Data in : eb
+# Data in : 5b
+# Data in : 60
+# Data in : 6a
+# Data in : a3
+# Data in : c3
+# Data in : e4
+# Data in : 28
+# Data in : fe
+# Data in : 54
+# Data in : f7
+# Data in : 5f
+# Data in : 5a
+# Data in : e7
+# Data in : 61
+# Data in : 5a
+# Data in : 84
+# Data in : bc
+# Data in : 3e
+# Data in : b4
+# Data in : 7a
+# Data in : 7c
+# Data in : e2
+# Data in : 2b
+# Data in : 92
+# Data in : 5d
+# Data in : a6
+# Data in : 8c
+# Data in : 80
+# Data in : 8a
+# Data in : 07
+# Data in : 6c
+# Data in : 66
+# Data in : e6
+# Data in : d7
+# Data in : 0a
+# Data in : aa
+# y[0] =  -1521
+# y[1] =  -9910
+# y[2] = -16784
+# y[3] = -29816
+# y[4] =  24571
+# y[5] =   2513
+# y[6] = -11325
+# y[7] = -10298
+# Data in : bc
+# Data in : b1
+# Data in : 29
+# Data in : 91
+# Data in : 29
+# Data in : 09
+# Data in : 6b
+# Data in : 11
+# Data in : 6a
+# Data in : c6
+# Data in : 15
+# Data in : 28
+# Data in : 05
+# Data in : 4a
+# Data in : a2
+# Data in : 82
+# Data in : 2d
+# Data in : 4e
+# Data in : 15
+# Data in : 0b
+# Data in : f4
+# Data in : 22
+# Data in : 8b
+# Data in : 00
+# Data in : a8
+# Data in : 77
+# Data in : 66
+# Data in : 8f
+# Data in : 4f
+# Data in : ef
+# Data in : 3a
+# Data in : 8c
+# Data in : 22
+# Data in : e2
+# Data in : 1e
+# Data in : 4b
+# Data in : eb
+# Data in : 89
+# Data in : dc
+# Data in : d6
+# Data in : 50
+# Data in : f1
+# Data in : fe
+# Data in : d5
+# Data in : bb
+# Data in : 21
+# Data in : 58
+# Data in : e9
+# Data in : ee
+# Data in : ec
+# Data in : 74
+# Data in : 64
+# Data in : 0f
+# Data in : 00
+# Data in : 64
+# Data in : b7
+# Data in : 77
+# Data in : 4a
+# Data in : c6
+# Data in : 47
+# Data in : 3a
+# Data in : 80
+# Data in : d3
+# Data in : 5c
+# Data in : 64
+# Data in : 71
+# Data in : 28
+# Data in : cf
+# Data in : 7a
+# Data in : 05
+# Data in : a6
+# Data in : 4b
+# y[0] = -11956
+# y[1] =   2916
+# y[2] =  22851
+# y[3] =   9897
+# y[4] =  -5532
+# y[5] =  -9566
+# y[6] = -16965
+# y[7] =  31849
+# Data in : 76
+# Data in : 25
+# Data in : 21
+# Data in : 33
+# Data in : c6
+# Data in : 79
+# Data in : 9c
+# Data in : b5
+# Data in : 66
+# Data in : 11
+# Data in : 1a
+# Data in : f5
+# Data in : 90
+# Data in : fd
+# Data in : 2d
+# Data in : 08
+# Data in : 48
+# Data in : f4
+# Data in : ce
+# Data in : 03
+# Data in : 75
+# Data in : 22
+# Data in : de
+# Data in : 59
+# Data in : 93
+# Data in : 07
+# Data in : 2a
+# Data in : 8e
+# Data in : 0c
+# Data in : 50
+# Data in : d9
+# Data in : 03
+# Data in : 76
+# Data in : fa
+# Data in : 36
+# Data in : bc
+# Data in : f3
+# Data in : d2
+# Data in : 72
+# Data in : 5a
+# Data in : 63
+# Data in : 0d
+# Data in : cf
+# Data in : f3
+# Data in : 0b
+# Data in : fd
+# Data in : 7b
+# Data in : 54
+# Data in : f2
+# Data in : 4b
+# Data in : d6
+# Data in : e7
+# Data in : ec
+# Data in : b5
+# Data in : 42
+# Data in : 01
+# Data in : bd
+# Data in : eb
+# Data in : 8f
+# Data in : 49
+# Data in : 3c
+# Data in : 69
+# Data in : cb
+# Data in : 32
+# Data in : 64
+# Data in : 02
+# Data in : ee
+# Data in : 58
+# Data in : 54
+# Data in : 62
+# Data in : 32
+# Data in : 37
+# y[0] =  13629
+# y[1] =   1786
+# y[2] =  24695
+# y[3] = -14611
+# y[4] =   9882
+# y[5] =  21064
+# y[6] =  -8369
+# y[7] =  17146
+# Data in : 6f
+# Data in : 03
+# Data in : 2b
+# Data in : f9
+# Data in : 80
+# Data in : 27
+# Data in : cd
+# Data in : 73
+# Data in : 72
+# Data in : a4
+# Data in : 5b
+# Data in : de
+# Data in : 5b
+# Data in : 1d
+# Data in : df
+# Data in : 98
+# Data in : 09
+# Data in : 6f
+# Data in : 61
+# Data in : 46
+# Data in : d8
+# Data in : 2e
+# Data in : 78
+# Data in : bc
+# Data in : af
+# Data in : e7
+# Data in : 94
+# Data in : 84
+# Data in : 4a
+# Data in : 47
+# Data in : bb
+# Data in : 39
+# Data in : c9
+# Data in : 67
+# Data in : b2
+# Data in : 4a
+# Data in : 8e
+# Data in : 81
+# Data in : 3d
+# Data in : 80
+# Data in : 26
+# Data in : 18
+# Data in : 5f
+# Data in : 01
+# Data in : 36
+# Data in : 40
+# Data in : 19
+# Data in : be
+# Data in : 2f
+# Data in : 7b
+# Data in : 84
+# Data in : 88
+# Data in : 29
+# Data in : 7d
+# Data in : 45
+# Data in : 58
+# Data in : 65
+# Data in : 5a
+# Data in : dc
+# Data in : af
+# Data in : 21
+# Data in : 19
+# Data in : 68
+# Data in : ea
+# Data in : 80
+# Data in : 1b
+# Data in : b4
+# Data in : 0f
+# Data in : 9c
+# Data in : 71
+# Data in : 8f
+# Data in : 43
+# y[0] =  13175
+# y[1] =  31972
+# y[2] = -13395
+# y[3] =  28280
+# y[4] =  -1561
+# y[5] = -16836
+# y[6] =  13053
+# y[7] = -22678
+# Data in : 89
+# Data in : ee
+# Data in : 44
+# Data in : 3f
+# Data in : ae
+# Data in : 5e
+# Data in : fe
+# Data in : de
+# Data in : 59
+# Data in : 03
+# Data in : 67
+# Data in : 82
+# Data in : 80
+# Data in : 2c
+# Data in : da
+# Data in : e5
+# Data in : 86
+# Data in : 38
+# Data in : 15
+# Data in : 27
+# Data in : 51
+# Data in : fc
+# Data in : 91
+# Data in : d1
+# Data in : 19
+# Data in : 46
+# Data in : e0
+# Data in : 35
+# Data in : b7
+# Data in : ef
+# Data in : 78
+# Data in : c1
+# Data in : de
+# Data in : 3d
+# Data in : 01
+# Data in : 8e
+# Data in : 1b
+# Data in : 7f
+# Data in : ec
+# Data in : f3
+# Data in : 83
+# Data in : 54
+# Data in : 76
+# Data in : 83
+# Data in : 80
+# Data in : d0
+# Data in : 6a
+# Data in : 87
+# Data in : 88
+# Data in : fe
+# Data in : ae
+# Data in : d9
+# Data in : fc
+# Data in : c0
+# Data in : 2b
+# Data in : 16
+# Data in : 07
+# Data in : 8b
+# Data in : ca
+# Data in : 3f
+# Data in : 7b
+# Data in : c3
+# Data in : 01
+# Data in : da
+# Data in : 01
+# Data in : 81
+# Data in : e8
+# Data in : 9b
+# Data in : 81
+# Data in : d5
+# Data in : 8f
+# Data in : 84
+# y[0] =   4986
+# y[1] =  31968
+# y[2] =  -3421
+# y[3] =  -9196
+# y[4] =  -1309
+# y[5] =  20346
+# y[6] =   1714
+# y[7] =   1400
+# Data in : 2a
+# Data in : 85
+# Data in : 08
+# Data in : 2a
+# Data in : d5
+# Data in : 72
+# Data in : 31
+# Data in : 5f
+# Data in : 72
+# Data in : 60
+# Data in : b8
+# Data in : 6f
+# Data in : 21
+# Data in : 64
+# Data in : 05
+# Data in : a7
+# Data in : ef
+# Data in : cf
+# Data in : e6
+# Data in : 6c
+# Data in : 13
+# Data in : 67
+# Data in : c6
+# Data in : 93
+# Data in : 69
+# Data in : af
+# Data in : 2f
+# Data in : ea
+# Data in : 85
+# Data in : 3e
+# Data in : 6f
+# Data in : 2f
+# Data in : c3
+# Data in : 77
+# Data in : d8
+# Data in : 1a
+# Data in : 6a
+# Data in : 0b
+# Data in : f8
+# Data in : 5c
+# Data in : 6b
+# Data in : 31
+# Data in : 4b
+# Data in : 0c
+# Data in : 95
+# Data in : cf
+# Data in : b3
+# Data in : 86
+# Data in : 1f
+# Data in : 9b
+# Data in : 72
+# Data in : 33
+# Data in : 03
+# Data in : b8
+# Data in : c6
+# Data in : eb
+# Data in : 68
+# Data in : 76
+# Data in : d6
+# Data in : 6d
+# Data in : b4
+# Data in : c5
+# Data in : 9c
+# Data in : f8
+# Data in : bd
+# Data in : 75
+# Data in : 13
+# Data in : a7
+# Data in : 00
+# Data in : 8b
+# Data in : 04
+# Data in : ea
+# y[0] =  29513
+# y[1] = -17375
+# y[2] = -24585
+# y[3] = -21505
+# y[4] =  11593
+# y[5] =   7030
+# y[6] =  -7613
+# y[7] =   3018
+# Data in : bc
+# Data in : ce
+# Data in : f6
+# Data in : 53
+# Data in : 1e
+# Data in : ab
+# Data in : 59
+# Data in : 3d
+# Data in : 47
+# Data in : 4b
+# Data in : ef
+# Data in : c9
+# Data in : 04
+# Data in : b7
+# Data in : b6
+# Data in : eb
+# Data in : 2e
+# Data in : 0d
+# Data in : 59
+# Data in : 62
+# Data in : d3
+# Data in : 75
+# Data in : 5b
+# Data in : 91
+# Data in : 6a
+# Data in : ed
+# Data in : 39
+# Data in : 6b
+# Data in : f8
+# Data in : bc
+# Data in : 56
+# Data in : b6
+# Data in : 0b
+# Data in : cd
+# Data in : 89
+# Data in : 29
+# Data in : 79
+# Data in : 62
+# Data in : 66
+# Data in : 40
+# Data in : 2d
+# Data in : 57
+# Data in : 89
+# Data in : b0
+# Data in : 8e
+# Data in : 40
+# Data in : 9c
+# Data in : 3c
+# Data in : cd
+# Data in : 75
+# Data in : 9e
+# Data in : 21
+# Data in : ea
+# Data in : 7a
+# Data in : b2
+# Data in : d4
+# Data in : e7
+# Data in : 6b
+# Data in : 40
+# Data in : e1
+# Data in : a7
+# Data in : 17
+# Data in : 18
+# Data in : 32
+# Data in : e4
+# Data in : a1
+# Data in : 5b
+# Data in : dd
+# Data in : 83
+# Data in : 41
+# Data in : 1e
+# Data in : b0
+# y[0] =  -8646
+# y[1] = -14520
+# y[2] =  26986
+# y[3] =   5359
+# y[4] = -18542
+# y[5] =  -6944
+# y[6] =  -7900
+# y[7] =   6784
+# Data in : 18
+# Data in : a7
+# Data in : 61
+# Data in : 26
+# Data in : 68
+# Data in : 7d
+# Data in : 62
+# Data in : 36
+# Data in : f2
+# Data in : 81
+# Data in : 57
+# Data in : 5d
+# Data in : 7b
+# Data in : 89
+# Data in : 32
+# Data in : 63
+# Data in : 74
+# Data in : f2
+# Data in : c4
+# Data in : 9b
+# Data in : 89
+# Data in : 5c
+# Data in : cd
+# Data in : 6e
+# Data in : fd
+# Data in : a8
+# Data in : 4c
+# Data in : 01
+# Data in : e9
+# Data in : 31
+# Data in : 82
+# Data in : 91
+# Data in : 92
+# Data in : a8
+# Data in : f9
+# Data in : 8f
+# Data in : 8b
+# Data in : af
+# Data in : 02
+# Data in : 0d
+# Data in : 86
+# Data in : 5f
+# Data in : 08
+# Data in : 8f
+# Data in : 12
+# Data in : ea
+# Data in : 83
+# Data in : 05
+# Data in : b0
+# Data in : 1f
+# Data in : 0e
+# Data in : 0d
+# Data in : 6c
+# Data in : 7c
+# Data in : 8b
+# Data in : 94
+# Data in : 48
+# Data in : 0c
+# Data in : fe
+# Data in : 32
+# Data in : 3e
+# Data in : 81
+# Data in : 43
+# Data in : 50
+# Data in : a9
+# Data in : bd
+# Data in : e0
+# Data in : 35
+# Data in : 6d
+# Data in : 62
+# Data in : c1
+# y[0] =  27287
+# y[1] =  -6665
+# y[2] =   9543
+# y[3] =  11306
+# y[4] = -19996
+# y[5] =   6725
+# y[6] = -28717
+# y[7] = -22903
+# Data in : 74
+# Data in : 42
+# Data in : 49
+# Data in : 83
+# Data in : 54
+# Data in : 35
+# Data in : 08
+# Data in : d8
+# Data in : 65
+# Data in : a6
+# Data in : e6
+# Data in : f1
+# Data in : 93
+# Data in : e2
+# Data in : fc
+# Data in : 28
+# Data in : aa
+# Data in : 0a
+# Data in : 27
+# Data in : 5c
+# Data in : c7
+# Data in : a8
+# Data in : 9f
+# Data in : 18
+# Data in : 53
+# Data in : 5d
+# Data in : 78
+# Data in : 08
+# Data in : 4b
+# Data in : db
+# Data in : 4a
+# Data in : 3f
+# Data in : 1e
+# Data in : 93
+# Data in : c2
+# Data in : 72
+# Data in : c8
+# Data in : ca
+# Data in : 2e
+# Data in : f1
+# Data in : b1
+# Data in : a0
+# Data in : 85
+# Data in : 14
+# Data in : 9d
+# Data in : ad
+# Data in : be
+# Data in : 27
+# Data in : d5
+# Data in : 1b
+# Data in : ee
+# Data in : 7e
+# Data in : ba
+# Data in : 08
+# Data in : 51
+# Data in : 98
+# Data in : 80
+# Data in : d9
+# Data in : 63
+# Data in : db
+# Data in : a3
+# Data in : a2
+# Data in : f9
+# Data in : 37
+# Data in : 65
+# Data in : eb
+# Data in : 80
+# Data in : b0
+# Data in : b6
+# Data in : 2e
+# Data in : a2
+# y[0] =  20999
+# y[1] =   5927
+# y[2] = -11961
+# y[3] =   4634
+# y[4] = -20981
+# y[5] =  17068
+# y[6] = -12607
+# y[7] = -24325
+# Data in : e7
+# Data in : ce
+# Data in : 28
+# Data in : fb
+# Data in : 6d
+# Data in : d5
+# Data in : ba
+# Data in : 14
+# Data in : 2b
+# Data in : d5
+# Data in : 04
+# Data in : 2a
+# Data in : 11
+# Data in : 0c
+# Data in : fa
+# Data in : a9
+# Data in : 0c
+# Data in : d4
+# Data in : 8c
+# Data in : e8
+# Data in : 78
+# Data in : 2f
+# Data in : 62
+# Data in : 30
+# Data in : 14
+# Data in : ce
+# Data in : b0
+# Data in : c4
+# Data in : 05
+# Data in : 5e
+# Data in : e6
+# Data in : ed
+# Data in : 2e
+# Data in : 8e
+# Data in : 69
+# Data in : 1b
+# Data in : e4
+# Data in : a4
+# Data in : 2f
+# Data in : 10
+# Data in : f9
+# Data in : 33
+# Data in : 3a
+# Data in : 0b
+# Data in : be
+# Data in : b5
+# Data in : 34
+# Data in : 4b
+# Data in : 8a
+# Data in : c0
+# Data in : b3
+# Data in : 83
+# Data in : 6f
+# Data in : 16
+# Data in : 33
+# Data in : 84
+# Data in : 64
+# Data in : 63
+# Data in : c8
+# Data in : 6a
+# Data in : c1
+# Data in : 30
+# Data in : d7
+# Data in : ef
+# Data in : be
+# Data in : 41
+# Data in : 8a
+# Data in : a3
+# Data in : 65
+# Data in : ba
+# Data in : 34
+# Data in : 60
+# y[0] =   6444
+# y[1] = -17798
+# y[2] =  30802
+# y[3] =   1199
+# y[4] = -17755
+# y[5] =   4398
+# y[6] =  24758
+# y[7] = -16902
+# Data in : 6d
+# Data in : ed
+# Data in : ea
+# Data in : ac
+# Data in : a3
+# Data in : 9f
+# Data in : f7
+# Data in : ae
+# Data in : df
+# Data in : 2b
+# Data in : b1
+# Data in : 50
+# Data in : 41
+# Data in : 64
+# Data in : 54
+# Data in : 26
+# Data in : c7
+# Data in : 1d
+# Data in : 90
+# Data in : 89
+# Data in : cc
+# Data in : 68
+# Data in : f9
+# Data in : 8c
+# Data in : 29
+# Data in : 84
+# Data in : af
+# Data in : 8f
+# Data in : be
+# Data in : 63
+# Data in : ef
+# Data in : ac
+# Data in : 52
+# Data in : 5a
+# Data in : 59
+# Data in : 75
+# Data in : f9
+# Data in : d0
+# Data in : a3
+# Data in : da
+# Data in : fb
+# Data in : 55
+# Data in : aa
+# Data in : bc
+# Data in : b9
+# Data in : fe
+# Data in : e2
+# Data in : 01
+# Data in : 9b
+# Data in : f2
+# Data in : 8b
+# Data in : 69
+# Data in : 5b
+# Data in : 05
+# Data in : 75
+# Data in : 85
+# Data in : 89
+# Data in : a4
+# Data in : 94
+# Data in : c8
+# Data in : 09
+# Data in : 84
+# Data in : 75
+# Data in : da
+# Data in : de
+# Data in : 4e
+# Data in : cf
+# Data in : d9
+# Data in : 9e
+# Data in : 74
+# Data in : 34
+# Data in : 1a
+# y[0] =  -5572
+# y[1] =  15813
+# y[2] =  28109
+# y[3] =  12194
+# y[4] = -15398
+# y[5] =  18858
+# y[6] =  -1472
+# y[7] =  -5824
+# Data in : 49
+# Data in : de
+# Data in : d6
+# Data in : 04
+# Data in : dd
+# Data in : 3a
+# Data in : 05
+# Data in : f8
+# Data in : ac
+# Data in : 10
+# Data in : 62
+# Data in : 09
+# Data in : 15
+# Data in : 57
+# Data in : 0e
+# Data in : 1f
+# Data in : fc
+# Data in : a2
+# Data in : 67
+# Data in : 06
+# Data in : a6
+# Data in : dc
+# Data in : 60
+# Data in : 05
+# Data in : aa
+# Data in : 30
+# Data in : 5e
+# Data in : c8
+# Data in : a4
+# Data in : 92
+# Data in : e2
+# Data in : ee
+# Data in : 71
+# Data in : 39
+# Data in : 72
+# Data in : ce
+# Data in : f2
+# Data in : f6
+# Data in : c8
+# Data in : a0
+# Data in : 87
+# Data in : aa
+# Data in : 29
+# Data in : 1c
+# Data in : 03
+# Data in : 37
+# Data in : 3b
+# Data in : 00
+# Data in : 59
+# Data in : a2
+# Data in : 85
+# Data in : 00
+# Data in : fe
+# Data in : e5
+# Data in : 05
+# Data in : 29
+# Data in : 95
+# Data in : 64
+# Data in : f1
+# Data in : ba
+# Data in : 76
+# Data in : 54
+# Data in : 29
+# Data in : 68
+# Data in : 8e
+# Data in : 1b
+# Data in : b6
+# Data in : 01
+# Data in : 91
+# Data in : 7f
+# Data in : a1
+# Data in : 19
+# y[0] =   4448
+# y[1] =  10928
+# y[2] = -13275
+# y[3] =   2730
+# y[4] = -16625
+# y[5] =   9513
+# y[6] =  -6239
+# y[7] =  12213
+# Data in : aa
+# Data in : ca
+# Data in : 36
+# Data in : ad
+# Data in : 81
+# Data in : f0
+# Data in : 2d
+# Data in : da
+# Data in : 14
+# Data in : b2
+# Data in : 5a
+# Data in : 92
+# Data in : 18
+# Data in : df
+# Data in : bc
+# Data in : 2d
+# Data in : 44
+# Data in : 2e
+# Data in : e7
+# Data in : 3a
+# Data in : 03
+# Data in : 90
+# Data in : a2
+# Data in : 91
+# Data in : ab
+# Data in : 5a
+# Data in : 12
+# Data in : bd
+# Data in : 59
+# Data in : b4
+# Data in : d6
+# Data in : 04
+# Data in : fe
+# Data in : 8c
+# Data in : b1
+# Data in : 81
+# Data in : 7e
+# Data in : 5e
+# Data in : db
+# Data in : 12
+# Data in : 11
+# Data in : 37
+# Data in : a4
+# Data in : a8
+# Data in : 17
+# Data in : e0
+# Data in : d6
+# Data in : da
+# Data in : 8f
+# Data in : 3e
+# Data in : 15
+# Data in : 92
+# Data in : cf
+# Data in : 38
+# Data in : a3
+# Data in : fa
+# Data in : 12
+# Data in : b5
+# Data in : b8
+# Data in : 6b
+# Data in : 6a
+# Data in : 10
+# Data in : ef
+# Data in : e9
+# Data in : 9c
+# Data in : 21
+# Data in : 6b
+# Data in : 9a
+# Data in : 80
+# Data in : 47
+# Data in : ac
+# Data in : 91
+# y[0] = -28916
+# y[1] =  11578
+# y[2] =  -1992
+# y[3] =   6526
+# y[4] =  -7471
+# y[5] =   1777
+# y[6] = -19997
+# y[7] = -31344
+# Data in : 7e
+# Data in : d1
+# Data in : 3b
+# Data in : 15
+# Data in : 32
+# Data in : 91
+# Data in : ef
+# Data in : c1
+# Data in : cf
+# Data in : 85
+# Data in : 54
+# Data in : 9f
+# Data in : bd
+# Data in : f7
+# Data in : 9b
+# Data in : 4f
+# Data in : 2e
+# Data in : d3
+# Data in : ba
+# Data in : 18
+# Data in : e3
+# Data in : aa
+# Data in : 02
+# Data in : 81
+# Data in : 4c
+# Data in : ec
+# Data in : 9b
+# Data in : cc
+# Data in : 35
+# Data in : c8
+# Data in : dd
+# Data in : 33
+# Data in : 9a
+# Data in : 98
+# Data in : 49
+# Data in : cc
+# Data in : 2a
+# Data in : b8
+# Data in : 0f
+# Data in : fa
+# Data in : 3e
+# Data in : 63
+# Data in : 9a
+# Data in : 7b
+# Data in : db
+# Data in : b5
+# Data in : ca
+# Data in : 0a
+# Data in : 06
+# Data in : a1
+# Data in : ed
+# Data in : 30
+# Data in : a4
+# Data in : ee
+# Data in : 7c
+# Data in : 91
+# Data in : 8b
+# Data in : c8
+# Data in : 46
+# Data in : 54
+# Data in : a7
+# Data in : 7a
+# Data in : 6e
+# Data in : 40
+# Data in : 43
+# Data in : ba
+# Data in : 6b
+# Data in : fb
+# Data in : c9
+# Data in : e5
+# Data in : ba
+# y[0] =  13756
+# y[1] = -29609
+# y[2] =  21108
+# y[3] =   5220
+# y[4] = -20405
+# y[5] = -29566
+# y[6] =   2285
+# y[7] = -10052
+# Data in : ad
+# Data in : 80
+# Data in : b5
+# Data in : 89
+# Data in : b6
+# Data in : 01
+# Data in : 13
+# Data in : 40
+# Data in : 07
+# Data in : b4
+# Data in : 2e
+# Data in : 37
+# Data in : d8
+# Data in : 9d
+# Data in : 34
+# Data in : ea
+# Data in : a8
+# Data in : fc
+# Data in : 31
+# Data in : 7c
+# Data in : 24
+# Data in : 2b
+# Data in : ea
+# Data in : 65
+# Data in : ed
+# Data in : 25
+# Data in : 50
+# Data in : 6a
+# Data in : ef
+# Data in : 36
+# Data in : 25
+# Data in : 9d
+# Data in : 36
+# Data in : 5a
+# Data in : a6
+# Data in : 6c
+# Data in : 5b
+# Data in : 39
+# Data in : ac
+# Data in : 62
+# Data in : 6d
+# Data in : 5b
+# Data in : 1a
+# Data in : 47
+# Data in : f8
+# Data in : cd
+# Data in : b1
+# Data in : a1
+# Data in : 4a
+# Data in : 62
+# Data in : 1e
+# Data in : 6f
+# Data in : 8e
+# Data in : 88
+# Data in : d4
+# Data in : 7c
+# Data in : ad
+# Data in : 25
+# Data in : 66
+# Data in : 9d
+# Data in : 5b
+# Data in : 0b
+# Data in : ba
+# Data in : 11
+# Data in : 66
+# Data in : 61
+# Data in : 7e
+# Data in : 41
+# Data in : 9a
+# Data in : 2b
+# Data in : 24
+# Data in : 09
+# y[0] = -29216
+# y[1] =   4210
+# y[2] =   3164
+# y[3] =  23118
+# y[4] =    945
+# y[5] =  22760
+# y[6] = -31487
+# y[7] =  -9636
+# Data in : 86
+# Data in : bd
+# Data in : cf
+# Data in : 7f
+# Data in : 8b
+# Data in : 81
+# Data in : a0
+# Data in : d5
+# Data in : e3
+# Data in : be
+# Data in : c4
+# Data in : f1
+# Data in : 47
+# Data in : 99
+# Data in : ee
+# Data in : f5
+# Data in : 3e
+# Data in : 55
+# Data in : 13
+# Data in : 19
+# Data in : 61
+# Data in : ce
+# Data in : 2b
+# Data in : 47
+# Data in : af
+# Data in : a9
+# Data in : 88
+# Data in : ca
+# Data in : 54
+# Data in : ac
+# Data in : d3
+# Data in : db
+# Data in : 6a
+# Data in : 23
+# Data in : da
+# Data in : 75
+# Data in : 24
+# Data in : 7c
+# Data in : cb
+# Data in : 08
+# Data in : ba
+# Data in : 90
+# Data in : 7a
+# Data in : 03
+# Data in : aa
+# Data in : 69
+# Data in : 78
+# Data in : e8
+# Data in : 3e
+# Data in : 0b
+# Data in : 82
+# Data in : 1f
+# Data in : d9
+# Data in : 2d
+# Data in : e5
+# Data in : 0a
+# Data in : 56
+# Data in : 6f
+# Data in : d4
+# Data in : aa
+# Data in : 9b
+# Data in : 28
+# Data in : 06
+# Data in : 07
+# Data in : 4b
+# Data in : 61
+# Data in : 7c
+# Data in : 6f
+# Data in : dd
+# Data in : c7
+# Data in : f6
+# Data in : 98
+# y[0] =   9138
+# y[1] = -12972
+# y[2] =   9667
+# y[3] = -29242
+# y[4] =  10990
+# y[5] =  -2332
+# y[6] =  -8436
+# y[7] =   2682
+# Data in : 59
+# Data in : f0
+# Data in : 1b
+# Data in : 04
+# Data in : d9
+# Data in : 13
+# Data in : 6c
+# Data in : 19
+# Data in : 1f
+# Data in : ee
+# Data in : b7
+# Data in : 78
+# Data in : 9b
+# Data in : 9e
+# Data in : 82
+# Data in : f1
+# Data in : 8d
+# Data in : 57
+# Data in : 1d
+# Data in : 29
+# Data in : 7f
+# Data in : 23
+# Data in : af
+# Data in : 4a
+# Data in : 04
+# Data in : ac
+# Data in : 39
+# Data in : e1
+# Data in : 74
+# Data in : b0
+# Data in : fa
+# Data in : cd
+# Data in : a1
+# Data in : 95
+# Data in : d1
+# Data in : fb
+# Data in : a9
+# Data in : 3f
+# Data in : 94
+# Data in : 48
+# Data in : ad
+# Data in : 4c
+# Data in : c0
+# Data in : 4a
+# Data in : 6a
+# Data in : 44
+# Data in : bb
+# Data in : f7
+# Data in : 9b
+# Data in : d8
+# Data in : 22
+# Data in : 9b
+# Data in : 7c
+# Data in : d1
+# Data in : 65
+# Data in : 80
+# Data in : 7e
+# Data in : 1f
+# Data in : e2
+# Data in : f3
+# Data in : cf
+# Data in : 5d
+# Data in : c1
+# Data in : f0
+# Data in : f2
+# Data in : 14
+# Data in : ec
+# Data in : 1c
+# Data in : d2
+# Data in : 81
+# Data in : 64
+# Data in : 00
+# y[0] =   8187
+# y[1] =   8518
+# y[2] = -14469
+# y[3] =    480
+# y[4] = -14809
+# y[5] = -14378
+# y[6] =   7471
+# y[7] = -16765
+# Data in : 4e
+# Data in : 26
+# Data in : c9
+# Data in : b8
+# Data in : 6a
+# Data in : 86
+# Data in : b1
+# Data in : 85
+# Data in : de
+# Data in : 53
+# Data in : a0
+# Data in : 5b
+# Data in : 25
+# Data in : 86
+# Data in : 5c
+# Data in : 24
+# Data in : a5
+# Data in : 3f
+# Data in : 18
+# Data in : 75
+# Data in : 9c
+# Data in : 59
+# Data in : e5
+# Data in : 0f
+# Data in : ec
+# Data in : d3
+# Data in : 2c
+# Data in : bf
+# Data in : d4
+# Data in : 90
+# Data in : 40
+# Data in : a2
+# Data in : 36
+# Data in : 0a
+# Data in : 5c
+# Data in : 20
+# Data in : 90
+# Data in : 8d
+# Data in : 26
+# Data in : 70
+# Data in : 60
+# Data in : c6
+# Data in : 4b
+# Data in : 05
+# Data in : 4d
+# Data in : a7
+# Data in : 29
+# Data in : 72
+# Data in : 66
+# Data in : c0
+# Data in : e7
+# Data in : 03
+# Data in : 9a
+# Data in : ce
+# Data in : 92
+# Data in : 87
+# Data in : 22
+# Data in : be
+# Data in : c7
+# Data in : 76
+# Data in : ce
+# Data in : 08
+# Data in : 1a
+# Data in : 85
+# Data in : 12
+# Data in : f5
+# Data in : a5
+# Data in : 23
+# Data in : 03
+# Data in : cb
+# Data in : 13
+# Data in : 63
+# y[0] =  -3423
+# y[1] =  22285
+# y[2] =  -4465
+# y[3] =  -8430
+# y[4] =  11179
+# y[5] =  12729
+# y[6] =  -6805
+# y[7] =  -1602
+# Data in : 13
+# Data in : 5e
+# Data in : e7
+# Data in : df
+# Data in : 86
+# Data in : 12
+# Data in : 53
+# Data in : ec
+# Data in : d2
+# Data in : ba
+# Data in : 70
+# Data in : ec
+# Data in : 09
+# Data in : 03
+# Data in : 75
+# Data in : 2b
+# Data in : 41
+# Data in : bc
+# Data in : 22
+# Data in : 8f
+# Data in : c4
+# Data in : bb
+# Data in : 15
+# Data in : 56
+# Data in : 31
+# Data in : bb
+# Data in : f8
+# Data in : 34
+# Data in : 07
+# Data in : 0c
+# Data in : 17
+# Data in : 1a
+# Data in : ea
+# Data in : fe
+# Data in : 7a
+# Data in : 71
+# Data in : 90
+# Data in : cd
+# Data in : dd
+# Data in : e3
+# Data in : 88
+# Data in : 4e
+# Data in : d0
+# Data in : 92
+# Data in : d0
+# Data in : 46
+# Data in : 3d
+# Data in : 91
+# Data in : 03
+# Data in : de
+# Data in : 22
+# Data in : 47
+# Data in : 9a
+# Data in : 37
+# Data in : 1e
+# Data in : cb
+# Data in : 72
+# Data in : 17
+# Data in : 7f
+# Data in : f9
+# Data in : a3
+# Data in : 16
+# Data in : 93
+# Data in : 8e
+# Data in : 16
+# Data in : 0e
+# Data in : 00
+# Data in : 26
+# Data in : db
+# Data in : 5d
+# Data in : 0a
+# Data in : e4
+# y[0] =   8058
+# y[1] =  -2840
+# y[2] = -10211
+# y[3] =   2447
+# y[4] =   3645
+# y[5] =   6276
+# y[6] =  12961
+# y[7] =  10153
+# Data in : ac
+# Data in : db
+# Data in : f6
+# Data in : fc
+# Data in : a1
+# Data in : 34
+# Data in : 8f
+# Data in : 25
+# Data in : 14
+# Data in : 31
+# Data in : eb
+# Data in : 2e
+# Data in : e7
+# Data in : 0a
+# Data in : fa
+# Data in : 5b
+# Data in : 22
+# Data in : 7a
+# Data in : d4
+# Data in : 45
+# Data in : 11
+# Data in : 68
+# Data in : d3
+# Data in : a6
+# Data in : 77
+# Data in : 53
+# Data in : cc
+# Data in : d2
+# Data in : b0
+# Data in : d7
+# Data in : b7
+# Data in : dc
+# Data in : 33
+# Data in : 2e
+# Data in : da
+# Data in : d4
+# Data in : 63
+# Data in : e9
+# Data in : 79
+# Data in : f6
+# Data in : 1b
+# Data in : 66
+# Data in : 25
+# Data in : 03
+# Data in : 70
+# Data in : 9f
+# Data in : dd
+# Data in : 12
+# Data in : 9a
+# Data in : b2
+# Data in : 57
+# Data in : ab
+# Data in : 1c
+# Data in : 2b
+# Data in : 52
+# Data in : 13
+# Data in : fd
+# Data in : 1f
+# Data in : e5
+# Data in : af
+# Data in : 76
+# Data in : 1e
+# Data in : 8c
+# Data in : 29
+# Data in : 4c
+# Data in : e6
+# Data in : fe
+# Data in : 2f
+# Data in : d0
+# Data in : 78
+# Data in : 26
+# Data in : eb
+# y[0] =    139
+# y[1] =   2711
+# y[2] =  14587
+# y[3] =   1730
+# y[4] =  -2016
+# y[5] = -19257
+# y[6] =  -3360
+# y[7] = -12120
+# Data in : 5e
+# Data in : cb
+# Data in : 6f
+# Data in : cf
+# Data in : ea
+# Data in : 4d
+# Data in : 61
+# Data in : 85
+# Data in : 01
+# Data in : b9
+# Data in : b0
+# Data in : 9c
+# Data in : 64
+# Data in : 82
+# Data in : af
+# Data in : 63
+# Data in : 22
+# Data in : 15
+# Data in : 92
+# Data in : 98
+# Data in : 33
+# Data in : 1f
+# Data in : c2
+# Data in : 00
+# Data in : 07
+# Data in : 41
+# Data in : 2f
+# Data in : 57
+# Data in : 39
+# Data in : d5
+# Data in : c3
+# Data in : 98
+# Data in : 21
+# Data in : 33
+# Data in : e7
+# Data in : 0c
+# Data in : 00
+# Data in : 49
+# Data in : 12
+# Data in : 80
+# Data in : 82
+# Data in : 42
+# Data in : 9c
+# Data in : e7
+# Data in : c5
+# Data in : 4c
+# Data in : ca
+# Data in : e7
+# Data in : e1
+# Data in : 5d
+# Data in : 00
+# Data in : 94
+# Data in : fb
+# Data in : 42
+# Data in : 94
+# Data in : 82
+# Data in : 83
+# Data in : 44
+# Data in : da
+# Data in : 3d
+# Data in : 1a
+# Data in : 9e
+# Data in : 55
+# Data in : ba
+# Data in : 51
+# Data in : 3d
+# Data in : c6
+# Data in : d0
+# Data in : 86
+# Data in : 58
+# Data in : 52
+# Data in : 89
+# y[0] =  32346
+# y[1] =  29015
+# y[2] =   6829
+# y[3] =  -5734
+# y[4] =  29790
+# y[5] =  13253
+# y[6] =  20902
+# y[7] =  -3197
+# Data in : 9b
+# Data in : ee
+# Data in : 71
+# Data in : 61
+# Data in : bb
+# Data in : c8
+# Data in : 9d
+# Data in : 19
+# Data in : c8
+# Data in : b1
+# Data in : 15
+# Data in : 0c
+# Data in : 47
+# Data in : 98
+# Data in : 8f
+# Data in : 0b
+# Data in : f2
+# Data in : 4c
+# Data in : 25
+# Data in : 11
+# Data in : a1
+# Data in : 5f
+# Data in : 62
+# Data in : 5e
+# Data in : 26
+# Data in : 33
+# Data in : 65
+# Data in : fe
+# Data in : 05
+# Data in : ee
+# Data in : 1a
+# Data in : f4
+# Data in : df
+# Data in : 7b
+# Data in : 30
+# Data in : 9b
+# Data in : 44
+# Data in : cd
+# Data in : 34
+# Data in : 8c
+# Data in : 7f
+# Data in : c8
+# Data in : 98
+# Data in : 46
+# Data in : 61
+# Data in : a8
+# Data in : 51
+# Data in : d3
+# Data in : f4
+# Data in : f5
+# Data in : e4
+# Data in : 17
+# Data in : 55
+# Data in : c6
+# Data in : 75
+# Data in : fb
+# Data in : 7a
+# Data in : da
+# Data in : fa
+# Data in : 7f
+# Data in : c9
+# Data in : 15
+# Data in : f3
+# Data in : 29
+# Data in : 10
+# Data in : 24
+# Data in : c4
+# Data in : d3
+# Data in : 71
+# Data in : f8
+# Data in : 60
+# y[0] = -19929
+# y[1] =  -6508
+# y[2] =  -2109
+# y[3] =   3533
+# y[4] =  18157
+# y[5] =  17791
+# y[6] =  19513
+# y[7] = -12607
+# Data in : f1
+# Data in : c2
+# Data in : f9
+# Data in : b7
+# Data in : a3
+# Data in : 22
+# Data in : 89
+# Data in : 78
+# Data in : 17
+# Data in : 7f
+# Data in : dc
+# Data in : ad
+# Data in : d5
+# Data in : a4
+# Data in : 24
+# Data in : 51
+# Data in : 1f
+# Data in : 7e
+# Data in : cb
+# Data in : 1e
+# Data in : c8
+# Data in : 60
+# Data in : 13
+# Data in : f1
+# Data in : 70
+# Data in : b6
+# Data in : b7
+# Data in : c3
+# Data in : 29
+# Data in : 30
+# Data in : 24
+# Data in : 9a
+# Data in : f2
+# Data in : 9d
+# Data in : 52
+# Data in : 17
+# Data in : bf
+# Data in : 5b
+# Data in : 0f
+# Data in : 57
+# Data in : db
+# Data in : eb
+# Data in : 05
+# Data in : 31
+# Data in : 10
+# Data in : 29
+# Data in : 82
+# Data in : ae
+# Data in : 28
+# Data in : cd
+# Data in : f0
+# Data in : 2e
+# Data in : 60
+# Data in : e2
+# Data in : 9e
+# Data in : 96
+# Data in : 9a
+# Data in : 62
+# Data in : bf
+# Data in : cb
+# Data in : 06
+# Data in : d9
+# Data in : 3e
+# Data in : 24
+# Data in : ac
+# Data in : d4
+# Data in : e3
+# Data in : 08
+# Data in : e3
+# Data in : 3b
+# Data in : e3
+# y[0] =  -5138
+# y[1] =  -3750
+# y[2] =  -9682
+# y[3] =  19247
+# y[4] =  -1260
+# y[5] =  -7326
+# y[6] =   7088
+# y[7] =  -2372
+# Data in : 50
+# Data in : c0
+# Data in : 94
+# Data in : 60
+# Data in : e9
+# Data in : 96
+# Data in : 8f
+# Data in : 12
+# Data in : 64
+# Data in : dc
+# Data in : 03
+# Data in : 92
+# Data in : bc
+# Data in : 66
+# Data in : b0
+# Data in : 53
+# Data in : 01
+# Data in : 92
+# Data in : 93
+# Data in : 4c
+# Data in : 99
+# Data in : 6d
+# Data in : 0b
+# Data in : 3d
+# Data in : 1a
+# Data in : df
+# Data in : 21
+# Data in : 23
+# Data in : 44
+# Data in : dc
+# Data in : 86
+# Data in : 14
+# Data in : 9d
+# Data in : 9b
+# Data in : f3
+# Data in : 07
+# Data in : 32
+# Data in : 83
+# Data in : 99
+# Data in : 97
+# Data in : 60
+# Data in : 1c
+# Data in : a9
+# Data in : 1d
+# Data in : 82
+# Data in : 5b
+# Data in : f0
+# Data in : 84
+# Data in : 6d
+# Data in : 84
+# Data in : 50
+# Data in : 86
+# Data in : f1
+# Data in : 5b
+# Data in : c3
+# Data in : 8c
+# Data in : bb
+# Data in : e5
+# Data in : 2f
+# Data in : 7f
+# Data in : 42
+# Data in : 35
+# Data in : 93
+# Data in : df
+# Data in : d0
+# Data in : 87
+# Data in : e6
+# Data in : 04
+# Data in : 0c
+# Data in : 80
+# Data in : 1b
+# Data in : eb
+# y[0] =  16959
+# y[1] = -18737
+# y[2] =    228
+# y[3] =   3737
+# y[4] = -32173
+# y[5] = -16606
+# y[6] =  -3835
+# y[7] =  -2377
+# Data in : 9d
+# Data in : c4
+# Data in : 0a
+# Data in : 9f
+# Data in : fa
+# Data in : a3
+# Data in : 8d
+# Data in : fe
+# Data in : f4
+# Data in : 14
+# Data in : 70
+# Data in : cf
+# Data in : d8
+# Data in : fc
+# Data in : 0b
+# Data in : 3e
+# Data in : 2c
+# Data in : 8a
+# Data in : 00
+# Data in : 62
+# Data in : 1e
+# Data in : df
+# Data in : b2
+# Data in : a6
+# Data in : 46
+# Data in : b6
+# Data in : 32
+# Data in : c7
+# Data in : 51
+# Data in : 1e
+# Data in : e4
+# Data in : 17
+# Data in : a7
+# Data in : 84
+# Data in : 36
+# Data in : 22
+# Data in : a8
+# Data in : 43
+# Data in : 21
+# Data in : 9d
+# Data in : 58
+# Data in : 92
+# Data in : ec
+# Data in : b0
+# Data in : 0f
+# Data in : f8
+# Data in : 6e
+# Data in : bb
+# Data in : 83
+# Data in : 6e
+# Data in : 9d
+# Data in : 22
+# Data in : cd
+# Data in : 50
+# Data in : c8
+# Data in : 14
+# Data in : 08
+# Data in : fa
+# Data in : db
+# Data in : 59
+# Data in : 98
+# Data in : 40
+# Data in : ef
+# Data in : 41
+# Data in : 45
+# Data in : a6
+# Data in : 63
+# Data in : ed
+# Data in : e9
+# Data in : 85
+# Data in : 0b
+# y[0] =  -8923
+# y[1] =  10794
+# y[2] =  18335
+# y[3] =   5812
+# y[4] =   5360
+# y[5] =  10926
+# y[6] =  22796
+# y[7] =  -8629
+# Data in : c1
+# Data in : 97
+# Data in : f7
+# Data in : f1
+# Data in : a6
+# Data in : 70
+# Data in : 60
+# Data in : e1
+# Data in : f4
+# Data in : 4e
+# Data in : 7f
+# Data in : 17
+# Data in : 1c
+# Data in : d0
+# Data in : 5f
+# Data in : 31
+# Data in : d8
+# Data in : d9
+# Data in : 8c
+# Data in : b1
+# Data in : 72
+# Data in : 4d
+# Data in : 22
+# Data in : 33
+# Data in : 12
+# Data in : c8
+# Data in : 97
+# Data in : 00
+# Data in : 32
+# Data in : 9c
+# Data in : 8a
+# Data in : f4
+# Data in : b3
+# Data in : 02
+# Data in : 66
+# Data in : d9
+# Data in : 73
+# Data in : c7
+# Data in : bc
+# Data in : e7
+# Data in : 95
+# Data in : 3c
+# Data in : 7e
+# Data in : b2
+# Data in : 0d
+# Data in : dd
+# Data in : 63
+# Data in : 65
+# Data in : 37
+# Data in : 6f
+# Data in : 18
+# Data in : 29
+# Data in : bc
+# Data in : b9
+# Data in : 5d
+# Data in : ce
+# Data in : 82
+# Data in : 74
+# Data in : 4e
+# Data in : 34
+# Data in : 90
+# Data in : d8
+# Data in : a8
+# Data in : 44
+# Data in : 5b
+# Data in : 10
+# Data in : 1e
+# Data in : ce
+# Data in : 57
+# Data in : da
+# Data in : b6
+# Data in : ec
+# y[0] = -25503
+# y[1] =   -934
+# y[2] =   -338
+# y[3] =  14714
+# y[4] =  15738
+# y[5] =  -7982
+# y[6] =  -3649
+# y[7] = -12942
+# Data in : 97
+# Data in : b4
+# Data in : 1f
+# Data in : a4
+# Data in : 12
+# Data in : 82
+# Data in : 8a
+# Data in : 49
+# Data in : f2
+# Data in : 22
+# Data in : f1
+# Data in : 2f
+# Data in : db
+# Data in : ce
+# Data in : fe
+# Data in : dd
+# Data in : 43
+# Data in : cc
+# Data in : 12
+# Data in : 53
+# Data in : 26
+# Data in : bb
+# Data in : 97
+# Data in : 81
+# Data in : cb
+# Data in : 36
+# Data in : 50
+# Data in : 23
+# Data in : 90
+# Data in : 86
+# Data in : 8f
+# Data in : 28
+# Data in : ba
+# Data in : af
+# Data in : 4d
+# Data in : cc
+# Data in : b1
+# Data in : d7
+# Data in : 95
+# Data in : a4
+# Data in : 79
+# Data in : 87
+# Data in : 54
+# Data in : 55
+# Data in : 57
+# Data in : 53
+# Data in : 33
+# Data in : 1a
+# Data in : 9f
+# Data in : c4
+# Data in : 6e
+# Data in : c5
+# Data in : 80
+# Data in : 85
+# Data in : 47
+# Data in : cb
+# Data in : bb
+# Data in : 17
+# Data in : ee
+# Data in : cc
+# Data in : 1d
+# Data in : 7f
+# Data in : f4
+# Data in : d7
+# Data in : ae
+# Data in : c1
+# Data in : 24
+# Data in : 60
+# Data in : 19
+# Data in : b9
+# Data in : 06
+# Data in : 92
+# y[0] =   6340
+# y[1] =   9441
+# y[2] =  25587
+# y[3] =   7968
+# y[4] =  19037
+# y[5] =   2613
+# y[6] =  21819
+# y[7] =  -5285
+# Data in : 42
+# Data in : d9
+# Data in : 67
+# Data in : 19
+# Data in : ac
+# Data in : 9a
+# Data in : b2
+# Data in : 4c
+# Data in : 60
+# Data in : a0
+# Data in : 13
+# Data in : 60
+# Data in : 27
+# Data in : d9
+# Data in : 2d
+# Data in : 62
+# Data in : 71
+# Data in : 9b
+# Data in : ae
+# Data in : 8e
+# Data in : 9a
+# Data in : 24
+# Data in : e6
+# Data in : 49
+# Data in : e5
+# Data in : 0b
+# Data in : aa
+# Data in : 7f
+# Data in : 45
+# Data in : 30
+# Data in : 12
+# Data in : 07
+# Data in : 0a
+# Data in : f9
+# Data in : 20
+# Data in : b6
+# Data in : 94
+# Data in : 52
+# Data in : 03
+# Data in : 74
+# Data in : f3
+# Data in : 95
+# Data in : 55
+# Data in : 9a
+# Data in : ef
+# Data in : 82
+# Data in : 7c
+# Data in : 61
+# Data in : 1e
+# Data in : 2c
+# Data in : 6f
+# Data in : 39
+# Data in : 50
+# Data in : d5
+# Data in : 82
+# Data in : b5
+# Data in : 61
+# Data in : 2d
+# Data in : 35
+# Data in : a6
+# Data in : 5d
+# Data in : c7
+# Data in : ad
+# Data in : e6
+# Data in : c1
+# Data in : 4d
+# Data in : 9d
+# Data in : d5
+# Data in : 9f
+# Data in : 21
+# Data in : ca
+# Data in : 13
+# y[0] =  -7995
+# y[1] = -25087
+# y[2] =  11997
+# y[3] =   -347
+# y[4] =  14069
+# y[5] = -18811
+# y[6] = -15742
+# y[7] = -10937
+# Data in : 36
+# Data in : 20
+# Data in : 2d
+# Data in : 26
+# Data in : 22
+# Data in : 2a
+# Data in : 07
+# Data in : bf
+# Data in : 56
+# Data in : f6
+# Data in : f8
+# Data in : 26
+# Data in : cc
+# Data in : 7c
+# Data in : 5b
+# Data in : 2e
+# Data in : 29
+# Data in : 11
+# Data in : d4
+# Data in : 07
+# Data in : d8
+# Data in : 02
+# Data in : ed
+# Data in : 1a
+# Data in : 4f
+# Data in : 0c
+# Data in : 6f
+# Data in : ac
+# Data in : 3a
+# Data in : 02
+# Data in : 62
+# Data in : d9
+# Data in : 30
+# Data in : 09
+# Data in : 7b
+# Data in : d9
+# Data in : 10
+# Data in : bb
+# Data in : af
+# Data in : 07
+# Data in : b4
+# Data in : 55
+# Data in : d4
+# Data in : b0
+# Data in : 82
+# Data in : 5a
+# Data in : c1
+# Data in : d7
+# Data in : 61
+# Data in : 1a
+# Data in : d9
+# Data in : ce
+# Data in : 34
+# Data in : a9
+# Data in : 5a
+# Data in : 24
+# Data in : 19
+# Data in : 86
+# Data in : dd
+# Data in : 9a
+# Data in : e9
+# Data in : 38
+# Data in : 4a
+# Data in : 72
+# Data in : b3
+# Data in : 24
+# Data in : 82
+# Data in : 6f
+# Data in : d3
+# Data in : 0a
+# y[0] =   4960
+# y[1] =  23889
+# y[2] =  14989
+# y[3] =  20575
+# y[4] =  15306
+# y[5] =  -8505
+# y[6] = -19715
+# y[7] =   -870
+# Data in : a4
+# Data in : 29
+# Data in : 5e
+# Data in : 55
+# Data in : da
+# Data in : e0
+# Data in : 2f
+# Data in : 1c
+# Data in : 38
+# Data in : 90
+# Data in : 37
+# Data in : 13
+# Data in : df
+# Data in : ea
+# Data in : bc
+# Data in : b9
+# Data in : 8e
+# Data in : 55
+# Data in : 41
+# Data in : 6d
+# Data in : ef
+# Data in : aa
+# Data in : a5
+# Data in : ba
+# Data in : 1d
+# Data in : d8
+# Data in : de
+# Data in : 1f
+# Data in : c8
+# Data in : b3
+# Data in : 29
+# Data in : 6d
+# Data in : 5c
+# Data in : 87
+# Data in : 42
+# Data in : b6
+# Data in : e8
+# Data in : 72
+# Data in : d3
+# Data in : 21
+# Data in : 82
+# Data in : 8a
+# Data in : b3
+# Data in : 62
+# Data in : f4
+# Data in : ef
+# Data in : 1d
+# Data in : 84
+# Data in : c4
+# Data in : dd
+# Data in : f1
+# Data in : 35
+# Data in : 88
+# Data in : 17
+# Data in : ef
+# Data in : a5
+# Data in : ef
+# Data in : ce
+# Data in : 44
+# Data in : b8
+# Data in : 02
+# Data in : 6e
+# Data in : a5
+# Data in : 5f
+# Data in : 75
+# Data in : e8
+# Data in : 16
+# Data in : dd
+# Data in : 5b
+# Data in : 69
+# Data in : 00
+# Data in : dd
+# y[0] = -20453
+# y[1] =   6957
+# y[2] = -25890
+# y[3] = -14476
+# y[4] =  26341
+# y[5] = -15571
+# y[6] = -13685
+# y[7] =  11634
+# Data in : 73
+# Data in : 33
+# Data in : c0
+# Data in : 69
+# Data in : 24
+# Data in : dd
+# Data in : ed
+# Data in : e8
+# Data in : bb
+# Data in : 5f
+# Data in : 1e
+# Data in : c3
+# Data in : f5
+# Data in : 0e
+# Data in : e8
+# Data in : e5
+# Data in : 5d
+# Data in : 2d
+# Data in : 1f
+# Data in : 5f
+# Data in : 9b
+# Data in : c4
+# Data in : 3e
+# Data in : 91
+# Data in : 2d
+# Data in : d4
+# Data in : 6f
+# Data in : 88
+# Data in : 3e
+# Data in : 6f
+# Data in : e6
+# Data in : b2
+# Data in : a3
+# Data in : a7
+# Data in : 9b
+# Data in : 47
+# Data in : 05
+# Data in : 89
+# Data in : 30
+# Data in : 40
+# Data in : 68
+# Data in : ce
+# Data in : 04
+# Data in : 5e
+# Data in : 5c
+# Data in : ec
+# Data in : c3
+# Data in : b9
+# Data in : 1a
+# Data in : 62
+# Data in : 99
+# Data in : 36
+# Data in : 28
+# Data in : d7
+# Data in : c7
+# Data in : d4
+# Data in : ac
+# Data in : 37
+# Data in : dd
+# Data in : 6b
+# Data in : 27
+# Data in : c4
+# Data in : 9d
+# Data in : 4a
+# Data in : eb
+# Data in : 39
+# Data in : 91
+# Data in : 70
+# Data in : 42
+# Data in : 41
+# Data in : b0
+# Data in : aa
+# y[0] =  23041
+# y[1] =   1128
+# y[2] =   1831
+# y[3] =  -9119
+# y[4] =   -706
+# y[5] =  20808
+# y[6] =  30840
+# y[7] =  20998
+# Data in : 8f
+# Data in : 34
+# Data in : 88
+# Data in : ec
+# Data in : 21
+# Data in : 4c
+# Data in : a6
+# Data in : ba
+# Data in : af
+# Data in : 40
+# Data in : f0
+# Data in : 57
+# Data in : 98
+# Data in : b8
+# Data in : 2c
+# Data in : 45
+# Data in : 70
+# Data in : 0a
+# Data in : b0
+# Data in : 97
+# Data in : 4e
+# Data in : 61
+# Data in : b9
+# Data in : 07
+# Data in : f2
+# Data in : 2a
+# Data in : 49
+# Data in : b3
+# Data in : 5a
+# Data in : f3
+# Data in : 44
+# Data in : 8e
+# Data in : fb
+# Data in : 31
+# Data in : 2f
+# Data in : 49
+# Data in : 57
+# Data in : ea
+# Data in : 78
+# Data in : 18
+# Data in : db
+# Data in : cf
+# Data in : b0
+# Data in : 15
+# Data in : 7b
+# Data in : 75
+# Data in : 05
+# Data in : 06
+# Data in : a6
+# Data in : 9c
+# Data in : 54
+# Data in : 74
+# Data in : fd
+# Data in : 8e
+# Data in : 7c
+# Data in : 70
+# Data in : b8
+# Data in : c5
+# Data in : 24
+# Data in : 93
+# Data in : 3a
+# Data in : e7
+# Data in : 22
+# Data in : b5
+# Data in : 19
+# Data in : d1
+# Data in : fe
+# Data in : f0
+# Data in : bc
+# Data in : f6
+# Data in : 88
+# y[0] =  19059
+# y[1] =   6093
+# y[2] =  -3182
+# y[3] = -15913
+# y[4] = -15236
+# y[5] = -10732
+# y[6] = -13560
+# y[7] = -13529
+# Data in : 18
+# Data in : 46
+# Data in : b8
+# Data in : ac
+# Data in : c2
+# Data in : 2e
+# Data in : b1
+# Data in : c8
+# Data in : 54
+# Data in : cd
+# Data in : 9c
+# Data in : c9
+# Data in : cb
+# Data in : 2b
+# Data in : c5
+# Data in : bb
+# Data in : 64
+# Data in : 0b
+# Data in : 60
+# Data in : f7
+# Data in : 45
+# Data in : 48
+# Data in : 99
+# Data in : fb
+# Data in : 62
+# Data in : 6b
+# Data in : 7a
+# Data in : d2
+# Data in : a7
+# Data in : 72
+# Data in : 5b
+# Data in : 40
+# Data in : b8
+# Data in : 14
+# Data in : ec
+# Data in : fa
+# Data in : c1
+# Data in : 1f
+# Data in : 43
+# Data in : 17
+# Data in : ec
+# Data in : e0
+# Data in : 60
+# Data in : 39
+# Data in : 8b
+# Data in : 26
+# Data in : f4
+# Data in : ef
+# Data in : 31
+# Data in : 55
+# Data in : e7
+# Data in : f6
+# Data in : 9e
+# Data in : 02
+# Data in : f2
+# Data in : 80
+# Data in : 6d
+# Data in : ec
+# Data in : 53
+# Data in : 95
+# Data in : de
+# Data in : 2e
+# Data in : d5
+# Data in : 18
+# Data in : 42
+# Data in : c2
+# Data in : 13
+# Data in : 04
+# Data in : 61
+# Data in : 57
+# Data in : 9a
+# Data in : 4f
+# y[0] =  -2838
+# y[1] =   5753
+# y[2] =  30774
+# y[3] =   -973
+# y[4] = -14827
+# y[5] =  -5446
+# y[6] = -20567
+# y[7] =  16569
+# Data in : b7
+# Data in : fa
+# Data in : 88
+# Data in : 43
+# Data in : 21
+# Data in : fc
+# Data in : 34
+# Data in : 53
+# Data in : d2
+# Data in : 9b
+# Data in : 4a
+# Data in : f0
+# Data in : 9d
+# Data in : bc
+# Data in : 71
+# Data in : 0c
+# Data in : 29
+# Data in : 44
+# Data in : 21
+# Data in : 09
+# Data in : 72
+# Data in : f6
+# Data in : a0
+# Data in : 34
+# Data in : 39
+# Data in : b3
+# Data in : b7
+# Data in : 9b
+# Data in : 8a
+# Data in : 53
+# Data in : 6a
+# Data in : c1
+# Data in : 4e
+# Data in : 72
+# Data in : 06
+# Data in : ef
+# Data in : 6f
+# Data in : b9
+# Data in : 43
+# Data in : c1
+# Data in : 55
+# Data in : 0d
+# Data in : b2
+# Data in : 73
+# Data in : c9
+# Data in : a3
+# Data in : fe
+# Data in : 72
+# Data in : 67
+# Data in : 20
+# Data in : 7b
+# Data in : 59
+# Data in : 17
+# Data in : 1c
+# Data in : 8d
+# Data in : 50
+# Data in : c5
+# Data in : 6b
+# Data in : 5a
+# Data in : 19
+# Data in : d5
+# Data in : 1d
+# Data in : e6
+# Data in : 48
+# Data in : a2
+# Data in : d6
+# Data in : 38
+# Data in : 5c
+# Data in : 1a
+# Data in : f9
+# Data in : 31
+# y[0] =  10735
+# y[1] =  -8901
+# y[2] =   9126
+# y[3] =  -3775
+# y[4] =  -1494
+# y[5] =  12736
+# y[6] =  11795
+# y[7] =  11557
+# Data in : a6
+# Data in : 2d
+# Data in : a4
+# Data in : ef
+# Data in : d0
+# Data in : a3
+# Data in : 63
+# Data in : 39
+# Data in : c3
+# Data in : 5e
+# Data in : 92
+# Data in : 5a
+# Data in : fa
+# Data in : a0
+# Data in : 2b
+# Data in : 4b
+# Data in : 66
+# Data in : 96
+# Data in : 25
+# Data in : 7f
+# Data in : ec
+# Data in : c1
+# Data in : e5
+# Data in : b4
+# Data in : 64
+# Data in : bd
+# Data in : ec
+# Data in : 40
+# Data in : 57
+# Data in : 67
+# Data in : 72
+# Data in : fe
+# Data in : 94
+# Data in : 96
+# Data in : ee
+# Data in : 65
+# Data in : 3b
+# Data in : d1
+# Data in : 1e
+# Data in : 7e
+# Data in : 31
+# Data in : b1
+# Data in : d9
+# Data in : 2c
+# Data in : 52
+# Data in : 05
+# Data in : f6
+# Data in : 38
+# Data in : 1b
+# Data in : 1c
+# Data in : 37
+# Data in : 08
+# Data in : de
+# Data in : 1d
+# Data in : bd
+# Data in : c2
+# Data in : da
+# Data in : aa
+# Data in : 04
+# Data in : b2
+# Data in : 91
+# Data in : f5
+# Data in : b1
+# Data in : 26
+# Data in : 8c
+# Data in : 20
+# Data in : 8c
+# Data in : c7
+# Data in : f2
+# Data in : 2a
+# Data in : c6
+# Data in : a3
+# y[0] =   9244
+# y[1] =   4297
+# y[2] = -20487
+# y[3] = -18390
+# y[4] = -10791
+# y[5] = -11762
+# y[6] =   2274
+# y[7] =   7778
+# Data in : db
+# Data in : a0
+# Data in : cf
+# Data in : ad
+# Data in : a5
+# Data in : 46
+# Data in : e5
+# Data in : c0
+# Data in : e1
+# Data in : 1d
+# Data in : 49
+# Data in : 40
+# Data in : 3b
+# Data in : 07
+# Data in : 04
+# Data in : 95
+# Data in : 31
+# Data in : 87
+# Data in : 48
+# Data in : c3
+# Data in : 7d
+# Data in : 79
+# Data in : e9
+# Data in : 0a
+# Data in : 1a
+# Data in : f5
+# Data in : 52
+# Data in : 8c
+# Data in : 21
+# Data in : 19
+# Data in : 30
+# Data in : 7c
+# Data in : b9
+# Data in : 7f
+# Data in : aa
+# Data in : de
+# Data in : 45
+# Data in : 90
+# Data in : 1f
+# Data in : 27
+# Data in : 2e
+# Data in : 68
+# Data in : e8
+# Data in : ee
+# Data in : eb
+# Data in : fd
+# Data in : a0
+# Data in : 73
+# Data in : c6
+# Data in : e3
+# Data in : f0
+# Data in : 40
+# Data in : 4d
+# Data in : 7a
+# Data in : d9
+# Data in : 44
+# Data in : cc
+# Data in : 66
+# Data in : e4
+# Data in : 65
+# Data in : 16
+# Data in : e0
+# Data in : 9e
+# Data in : 15
+# Data in : 8b
+# Data in : fc
+# Data in : 5a
+# Data in : 9c
+# Data in : 1d
+# Data in : 82
+# Data in : 4a
+# y[0] =  12977
+# y[1] = -12695
+# y[2] =   4055
+# y[3] =  -8382
+# y[4] = -30234
+# y[5] = -19313
+# y[6] = -14548
+# y[7] =  -8098
+# Data in : 05
+# Data in : 6a
+# Data in : 33
+# Data in : 74
+# Data in : 56
+# Data in : b0
+# Data in : 15
+# Data in : c9
+# Data in : 77
+# Data in : f8
+# Data in : 3a
+# Data in : 38
+# Data in : c5
+# Data in : b4
+# Data in : 12
+# Data in : 89
+# Data in : 02
+# Data in : f8
+# Data in : 6e
+# Data in : e6
+# Data in : 0f
+# Data in : cf
+# Data in : 86
+# Data in : a4
+# Data in : 5b
+# Data in : 83
+# Data in : fe
+# Data in : 77
+# Data in : 20
+# Data in : 01
+# Data in : c1
+# Data in : a5
+# Data in : 6b
+# Data in : f4
+# Data in : 99
+# Data in : 41
+# Data in : a6
+# Data in : ae
+# Data in : 0b
+# Data in : 9d
+# Data in : 27
+# Data in : c4
+# Data in : d5
+# Data in : ec
+# Data in : 7a
+# Data in : e8
+# Data in : 77
+# Data in : fb
+# Data in : 61
+# Data in : 65
+# Data in : e2
+# Data in : ef
+# Data in : b4
+# Data in : e8
+# Data in : 94
+# Data in : 11
+# Data in : ec
+# Data in : 14
+# Data in : 88
+# Data in : 8c
+# Data in : 15
+# Data in : ca
+# Data in : 32
+# Data in : 01
+# Data in : 3f
+# Data in : cb
+# Data in : 42
+# Data in : 65
+# Data in : f9
+# Data in : cd
+# Data in : 04
+# Data in : a0
+# y[0] =  18621
+# y[1] = -32346
+# y[2] =  15922
+# y[3] =  32454
+# y[4] =  21504
+# y[5] =   2105
+# y[6] =  -3247
+# y[7] = -19245
+# ** Note: $finish    : tb_8_8_8_1.sv(11949)
+#    Time: 53045 ns  Iteration: 1  Instance: /tb6
+# End time: 15:57:48 on Dec 03,2015, Elapsed time: 0:00:01
+# Errors: 0, Warnings: 0
